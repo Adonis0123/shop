@@ -8,16 +8,16 @@
 
 
 #### 安装教程
+后端 shop_server
+1.node app.js
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+前端 shop
+1.  npm install
+2.  npm run serve
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  先启动后端，然后启动前端就能看到项目了
 
 #### 参与贡献
 
